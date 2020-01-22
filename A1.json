@@ -9,7 +9,7 @@
     		{"id": 555, "courseCode": "DSA", "courseName": "Data Structures"},
     		{"id": 531, "courseCode": "GAM", "courseName": "Game Engine Foundations"},
     		{"id": 111, "courseCode": "LGE", "courseName": "Italian Language Skills 1"},
-    		{"id": 524, "courseCode": "MAP", "courseName": "Mobile App Development-Android"},
+    		{"id": 524, "courseCode": "MAP", "courseName": "Mobile App Development - Android"},
     		{"id": 566, "courseCode": "PRJ", "courseName": "Project Planning & Management"}
 	]
 }
