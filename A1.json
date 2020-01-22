@@ -1,6 +1,6 @@
 {
 	"student": "Jason Ho",
-	"count": 4,
+	"count": 9,
 	"data": [
 		{"id": 162, "courseCode": "CVI", "courseName": "Computer Vision"},
 		{"id": 433, "courseCode": "BCI", "courseName": "IBM Business Computing"},
